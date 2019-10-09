@@ -1,0 +1,1 @@
+worker: addicts bot.py
